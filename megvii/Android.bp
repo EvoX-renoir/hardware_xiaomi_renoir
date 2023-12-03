@@ -19,5 +19,6 @@ cc_library_shared {
 
 cc_library_shared {
     name: "libmegface_xiaomi",
+    stem: "libmegface",
     vendor: true,
 }
